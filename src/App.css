@@ -1,10 +1,15 @@
+@import './styles/first-page.css';
+@import './styles/lines.css';
+
 .App {
+  height: 100vh;
   text-align: center;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+section {
+  position: relative;
+  background: linear-gradient(90deg, rgba(0, 0, 0, 1) 0%, rgb(49, 51, 50) 13%, rgba(0, 0, 0, 1) 100%);
+  height: 100%;
 }
 
 @media (prefers-reduced-motion: no-preference) {
@@ -26,13 +31,4 @@
 
 .App-link {
   color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
 }

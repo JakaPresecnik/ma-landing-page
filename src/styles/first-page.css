@@ -1,0 +1,129 @@
+nav {
+    width: 100%;
+    text-transform: uppercase;
+    margin: 0, auto;
+    z-index: 100;
+    position: fixed;
+    top: 0;
+}
+.selected {
+    color:#aaa;
+}
+
+a {
+    color: inherit;
+}
+
+ul#nav {
+    width: auto;
+    text-align:center;
+    font: 12px 'opensans-bold', sans-serif;
+    letter-spacing: 2.5px;
+    color: #fff;
+}
+ul#nav li {
+    position: relative;
+    list-style: none;
+    display: inline-block;
+    padding: 8px 13px;
+    line-height: 32px;
+    font-weight: bold;
+ }
+
+ a {
+     text-decoration: none;
+ }
+ 
+.circles { 
+    position:absolute; 
+    z-index: 1;
+    top:0; 
+    left:0; 
+    height:100%; 
+    width:100%; 
+}
+
+ @keyframes rotate0 {
+	from {
+		transform: rotate(0deg)
+		           translate(2em)
+		           rotate(0deg);
+	}
+	to {
+		transform: rotate(360deg)
+		           translate(2em)
+		           rotate(-360deg);
+	}
+}
+@keyframes rotate1 {
+	from {
+		transform: rotate(0deg)
+		           translate(-5em)
+		           rotate(0deg);
+	}
+	to {
+		transform: rotate(360deg)
+		           translate(-5em)
+		           rotate(-360deg);
+	}
+}
+@keyframes rotate2 {
+	from {
+		transform: rotate(0deg)
+		           translate(10em)
+		           rotate(0deg);
+	}
+	to {
+		transform: rotate(360deg)
+		           translate(10em)
+		           rotate(-360deg);
+	}
+}
+
+.header {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    color: #fff;
+}
+.header h1 {
+    font-size: 3em;
+    color: #fff;
+    z-index: 2;
+}
+
+.header p {
+    color: #fff;
+    z-index: 2;
+}
+
+footer {
+    color: #999;
+    z-index: 1;
+    padding: 24px;
+    background-color: #303030;
+}
+.footer {
+    z-index: 2
+}
+footer p{
+    color: #999;
+    z-index: 3;
+}
+.badge {
+    position: relative;
+    cursor: pointer;
+    padding: 0.2em;
+    margin: 0 0.2em;
+}
+.badge:hover {
+    color: #bbb;
+    top: -1px;
+    right: 1px;
+}
+.badge:visited {
+    color: #777;
+}
