@@ -10,7 +10,10 @@ function SvgTwo (props) {
         styles.push({
             strokeDasharray: 5 * Math.floor(Math.random() * 20),
             strokeDashoffset: h,
-            animation: 'dash ' + 3 + Math.floor(Math.random() * 15) + 's linear forwards infinite',
+            animationName: 'dash ',
+            animationDuration: 10 + Math.floor(Math.random() * 20) + 's',
+            animationTimingFunction: 'linear',
+            animationIterationCount: 'infinite',
             animationDirection: Math.round(Math.random()) ? 'reverse' : 'normal',
         })
 

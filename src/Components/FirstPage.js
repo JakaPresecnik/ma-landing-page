@@ -8,7 +8,7 @@ function FirstPage () {
     // }, [])
     
     return (
-        <section>
+        <section style={{height: '100%'}}>
             <div className="header">
                 <h1>Quick Portfolio</h1>
                 <p>Made a simple react app to show some of my projects.</p>
