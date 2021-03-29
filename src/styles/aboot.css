@@ -1,0 +1,18 @@
+@keyframes scale {
+	0% {
+        transform-origin: center;
+		transform: scale(0.0);
+	}
+	80% {
+        transform-origin: center;
+		transform: scale(1.0);
+	}
+    90% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 0;
+        transform-origin: center;
+        transform: scale(0.0);
+    }
+}

@@ -1,5 +1,6 @@
 @import './styles/first-page.css';
 @import './styles/lines.css';
+@import './styles/aboot.css';
 
 .App {
   height: 100vh;
