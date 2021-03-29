@@ -4,8 +4,8 @@ function Nav () {
     return (
         <nav>
             <ul id="nav" className="nav">
-                <li><NavLink to='/' exact activeClassName="selected">Home</NavLink></li>
-                <li><NavLink to='/works' activeClassName="selected">Works</NavLink></li>
+                <li><NavLink to='/ma-landing-page' exact activeClassName="selected">Home</NavLink></li>
+                <li><NavLink to='/ma-landing-page/works' activeClassName="selected">Works</NavLink></li>
             </ul>
         </nav>
     );
