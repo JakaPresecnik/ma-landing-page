@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a8c68cb1.chunk.css",
+    "main.js": "/static/js/main.ef5e5167.chunk.js",
+    "main.js.map": "/static/js/main.ef5e5167.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.d898c81e.js",
+    "runtime-main.js.map": "/static/js/runtime-main.d898c81e.js.map",
+    "static/js/2.c0b04d75.chunk.js": "/static/js/2.c0b04d75.chunk.js",
+    "static/js/2.c0b04d75.chunk.js.map": "/static/js/2.c0b04d75.chunk.js.map",
+    "static/js/3.4ca1a052.chunk.js": "/static/js/3.4ca1a052.chunk.js",
+    "static/js/3.4ca1a052.chunk.js.map": "/static/js/3.4ca1a052.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.a8c68cb1.chunk.css.map": "/static/css/main.a8c68cb1.chunk.css.map",
+    "static/js/2.c0b04d75.chunk.js.LICENSE.txt": "/static/js/2.c0b04d75.chunk.js.LICENSE.txt",
+    "static/media/arcadegame.e0154525.jpg": "/static/media/arcadegame.e0154525.jpg",
+    "static/media/landingpage.16d2e753.jpg": "/static/media/landingpage.16d2e753.jpg",
+    "static/media/memorygame.c2363091.jpg": "/static/media/memorygame.c2363091.jpg",
+    "static/media/myreads.b7022d5b.jpg": "/static/media/myreads.b7022d5b.jpg",
+    "static/media/paragoria.2e2aa2ba.jpg": "/static/media/paragoria.2e2aa2ba.jpg",
+    "static/media/pixelartmaker.1e37188b.jpg": "/static/media/pixelartmaker.1e37188b.jpg",
+    "static/media/starnotary.59e3238c.jpg": "/static/media/starnotary.59e3238c.jpg",
+    "static/media/wouldyourather.326cab05.jpg": "/static/media/wouldyourather.326cab05.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d898c81e.js",
+    "static/js/2.c0b04d75.chunk.js",
+    "static/css/main.a8c68cb1.chunk.css",
+    "static/js/main.ef5e5167.chunk.js"
+  ]
+}
