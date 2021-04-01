@@ -6,6 +6,7 @@ nav {
     position: fixed;
     top: 0;
 }
+
 .selected {
     color:#aaa;
 }
@@ -20,15 +21,30 @@ ul#nav {
     font: 12px 'opensans-bold', sans-serif;
     letter-spacing: 2.5px;
     color: #fff;
+    padding-left: 0;
 }
 ul#nav li {
-    position: relative;
     list-style: none;
     display: inline-block;
-    padding: 8px 13px;
     line-height: 32px;
     font-weight: bold;
  }
+ ul.nav li {
+    padding: 8px 13px;
+    transition: 1s;
+ }
+ ul.shaded {
+     margin: 0;
+ }
+ ul.shaded li{
+     padding: 0 13px;
+     font-size: 10px;
+     transition: 1s;
+ }
+ .shaded {
+     background: #303030;
+ }
+
 
  a {
      text-decoration: none;
@@ -82,6 +98,7 @@ ul#nav li {
 
 .header {
     height: 100%;
+    max-width: 700px;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -96,6 +113,8 @@ h1 {
 }
 
 .header p {
+    margin-left: 2em;
+    margin-right: 2em;
     color: #fff;
     z-index: 2;
 }
@@ -110,6 +129,8 @@ footer {
     z-index: 2
 }
 footer p{
+    font: 12px 'opensans', sans-serif;
+    letter-spacing: 2.5px;
     color: #999;
     z-index: 3;
 }

@@ -16,3 +16,67 @@
         transform: scale(0.0);
     }
 }
+
+.skill-display {
+    display: inline-block;
+    margin: auto;
+    text-align: justify;
+}
+
+progress[value] {
+    -webkit-appearance: none;
+     appearance: none;
+  
+    width: 250px;
+    height: 20px;
+}
+
+progress[value]::-webkit-progress-bar {
+    border-radius: 2px;
+    box-shadow: 0 3px 5px #303030 inset;
+}
+
+progress[value]::-webkit-progress-value {
+    background-image:
+         -webkit-linear-gradient(-45deg, 
+                                 transparent 33%, rgba(0, 0, 0, .2) 33%, 
+                                 rgba(0,0, 0, .2) 66%, transparent 66%);
+    
+    box-shadow: 0 2px 3px rgb(225, 241, 199) inset;
+    border-radius: 2px; 
+    background-size: 100% 100%;
+  }
+
+#HTML[value]::-webkit-progress-value {
+    background-color: #e44c23;
+}
+#CSS[value]::-webkit-progress-value {
+    background-color: #1c7cbc;
+}
+#Javascript[value]::-webkit-progress-value {
+    background-color: #ebcd2c;
+}
+#jQuery[value]::-webkit-progress-value {
+    background-color: #7acef4;
+}
+#NodeJs[value]::-webkit-progress-value {
+    background-color: #43853d;
+}
+#React[value]::-webkit-progress-value {
+    background-color: #61dafb;
+}
+#Redux[value]::-webkit-progress-value {
+    background-color: #744bbc;
+}
+#Postgres[value]::-webkit-progress-value {
+    background-color: #336791;
+}
+#Angular[value]::-webkit-progress-value {
+    background-color: #c4042b;
+}
+#Solidity[value]::-webkit-progress-value {
+    background-color: #636b8c;
+}
+#Python[value]::-webkit-progress-value {
+    background-color: #f8c953;
+}

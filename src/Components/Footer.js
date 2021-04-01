@@ -12,7 +12,7 @@ function Footer() {
                     <a className="badge" href="https://www.upwork.com/o/profiles/users/~0162426b4d1a3baf3c/" title="Upwork profile" target="_blank" rel="noreferrer" ><SiUpwork size='1.3em' /></a>
                 </h4>
             </div> 
-           <div className="footer"><p>© Copyright 2021 Jaka Presečnik</p></div>
+           <div className="footer"><p>© Copyright 2021  | Jaka Presečnik</p></div>
         </footer>
     )
 }
