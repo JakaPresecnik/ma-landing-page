@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/ma-landing-page/static/css/main.b31e3362.chunk.css",
-    "main.js": "/ma-landing-page/static/js/main.26902648.chunk.js",
-    "main.js.map": "/ma-landing-page/static/js/main.26902648.chunk.js.map",
+    "main.css": "/ma-landing-page/static/css/main.04c24fba.chunk.css",
+    "main.js": "/ma-landing-page/static/js/main.b25cd2cc.chunk.js",
+    "main.js.map": "/ma-landing-page/static/js/main.b25cd2cc.chunk.js.map",
     "runtime-main.js": "/ma-landing-page/static/js/runtime-main.a63ae1b1.js",
     "runtime-main.js.map": "/ma-landing-page/static/js/runtime-main.a63ae1b1.js.map",
     "static/js/2.17a1715f.chunk.js": "/ma-landing-page/static/js/2.17a1715f.chunk.js",
@@ -10,21 +10,31 @@
     "static/js/3.e0c18ca3.chunk.js": "/ma-landing-page/static/js/3.e0c18ca3.chunk.js",
     "static/js/3.e0c18ca3.chunk.js.map": "/ma-landing-page/static/js/3.e0c18ca3.chunk.js.map",
     "index.html": "/ma-landing-page/index.html",
-    "static/css/main.b31e3362.chunk.css.map": "/ma-landing-page/static/css/main.b31e3362.chunk.css.map",
+    "static/css/main.04c24fba.chunk.css.map": "/ma-landing-page/static/css/main.04c24fba.chunk.css.map",
     "static/js/2.17a1715f.chunk.js.LICENSE.txt": "/ma-landing-page/static/js/2.17a1715f.chunk.js.LICENSE.txt",
+    "static/media/FEND.f06124bf.jpg": "/ma-landing-page/static/media/FEND.f06124bf.jpg",
+    "static/media/IPND.13e7c013.jpg": "/ma-landing-page/static/media/IPND.13e7c013.jpg",
+    "static/media/RND.85838634.jpg": "/ma-landing-page/static/media/RND.85838634.jpg",
     "static/media/arcadegame.c4f2b4d7.jpg": "/ma-landing-page/static/media/arcadegame.c4f2b4d7.jpg",
+    "static/media/hackerrankReact.8216eaed.jpg": "/ma-landing-page/static/media/hackerrankReact.8216eaed.jpg",
     "static/media/landingpage.84339bbe.jpg": "/ma-landing-page/static/media/landingpage.84339bbe.jpg",
     "static/media/memorygame.9b67ad6f.jpg": "/ma-landing-page/static/media/memorygame.9b67ad6f.jpg",
     "static/media/myreads.a6d591a1.jpg": "/ma-landing-page/static/media/myreads.a6d591a1.jpg",
     "static/media/paragoria.528bbafb.jpg": "/ma-landing-page/static/media/paragoria.528bbafb.jpg",
     "static/media/pixelartmaker.54eeb361.jpg": "/ma-landing-page/static/media/pixelartmaker.54eeb361.jpg",
+    "static/media/sololearnCSS.a192429e.jpg": "/ma-landing-page/static/media/sololearnCSS.a192429e.jpg",
+    "static/media/sololearnHTML.7ccd17c2.jpg": "/ma-landing-page/static/media/sololearnHTML.7ccd17c2.jpg",
+    "static/media/sololearnJQ.212f6975.jpg": "/ma-landing-page/static/media/sololearnJQ.212f6975.jpg",
+    "static/media/sololearnJS.2130e146.jpg": "/ma-landing-page/static/media/sololearnJS.2130e146.jpg",
+    "static/media/sololearnReact.c39b17c7.jpg": "/ma-landing-page/static/media/sololearnReact.c39b17c7.jpg",
+    "static/media/sololearnSQL.7b7e2e04.jpg": "/ma-landing-page/static/media/sololearnSQL.7b7e2e04.jpg",
     "static/media/starnotary.2206c7fd.jpg": "/ma-landing-page/static/media/starnotary.2206c7fd.jpg",
     "static/media/wouldyourather.09f8fcfd.jpg": "/ma-landing-page/static/media/wouldyourather.09f8fcfd.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.a63ae1b1.js",
     "static/js/2.17a1715f.chunk.js",
-    "static/css/main.b31e3362.chunk.css",
-    "static/js/main.26902648.chunk.js"
+    "static/css/main.04c24fba.chunk.css",
+    "static/js/main.b25cd2cc.chunk.js"
   ]
 }
