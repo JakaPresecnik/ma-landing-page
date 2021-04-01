@@ -1,30 +1,30 @@
 {
   "files": {
-    "main.css": "/ma-landing-page/static/css/main.a5c58bfd.chunk.css",
-    "main.js": "/ma-landing-page/static/js/main.e134f8d0.chunk.js",
-    "main.js.map": "/ma-landing-page/static/js/main.e134f8d0.chunk.js.map",
+    "main.css": "/ma-landing-page/static/css/main.b31e3362.chunk.css",
+    "main.js": "/ma-landing-page/static/js/main.26902648.chunk.js",
+    "main.js.map": "/ma-landing-page/static/js/main.26902648.chunk.js.map",
     "runtime-main.js": "/ma-landing-page/static/js/runtime-main.a63ae1b1.js",
     "runtime-main.js.map": "/ma-landing-page/static/js/runtime-main.a63ae1b1.js.map",
-    "static/js/2.4d7f0fc9.chunk.js": "/ma-landing-page/static/js/2.4d7f0fc9.chunk.js",
-    "static/js/2.4d7f0fc9.chunk.js.map": "/ma-landing-page/static/js/2.4d7f0fc9.chunk.js.map",
+    "static/js/2.17a1715f.chunk.js": "/ma-landing-page/static/js/2.17a1715f.chunk.js",
+    "static/js/2.17a1715f.chunk.js.map": "/ma-landing-page/static/js/2.17a1715f.chunk.js.map",
     "static/js/3.e0c18ca3.chunk.js": "/ma-landing-page/static/js/3.e0c18ca3.chunk.js",
     "static/js/3.e0c18ca3.chunk.js.map": "/ma-landing-page/static/js/3.e0c18ca3.chunk.js.map",
     "index.html": "/ma-landing-page/index.html",
-    "static/css/main.a5c58bfd.chunk.css.map": "/ma-landing-page/static/css/main.a5c58bfd.chunk.css.map",
-    "static/js/2.4d7f0fc9.chunk.js.LICENSE.txt": "/ma-landing-page/static/js/2.4d7f0fc9.chunk.js.LICENSE.txt",
-    "static/media/arcadegame.e0154525.jpg": "/ma-landing-page/static/media/arcadegame.e0154525.jpg",
-    "static/media/landingpage.16d2e753.jpg": "/ma-landing-page/static/media/landingpage.16d2e753.jpg",
-    "static/media/memorygame.c2363091.jpg": "/ma-landing-page/static/media/memorygame.c2363091.jpg",
-    "static/media/myreads.b7022d5b.jpg": "/ma-landing-page/static/media/myreads.b7022d5b.jpg",
-    "static/media/paragoria.2e2aa2ba.jpg": "/ma-landing-page/static/media/paragoria.2e2aa2ba.jpg",
-    "static/media/pixelartmaker.1e37188b.jpg": "/ma-landing-page/static/media/pixelartmaker.1e37188b.jpg",
-    "static/media/starnotary.59e3238c.jpg": "/ma-landing-page/static/media/starnotary.59e3238c.jpg",
-    "static/media/wouldyourather.326cab05.jpg": "/ma-landing-page/static/media/wouldyourather.326cab05.jpg"
+    "static/css/main.b31e3362.chunk.css.map": "/ma-landing-page/static/css/main.b31e3362.chunk.css.map",
+    "static/js/2.17a1715f.chunk.js.LICENSE.txt": "/ma-landing-page/static/js/2.17a1715f.chunk.js.LICENSE.txt",
+    "static/media/arcadegame.c4f2b4d7.jpg": "/ma-landing-page/static/media/arcadegame.c4f2b4d7.jpg",
+    "static/media/landingpage.84339bbe.jpg": "/ma-landing-page/static/media/landingpage.84339bbe.jpg",
+    "static/media/memorygame.9b67ad6f.jpg": "/ma-landing-page/static/media/memorygame.9b67ad6f.jpg",
+    "static/media/myreads.a6d591a1.jpg": "/ma-landing-page/static/media/myreads.a6d591a1.jpg",
+    "static/media/paragoria.528bbafb.jpg": "/ma-landing-page/static/media/paragoria.528bbafb.jpg",
+    "static/media/pixelartmaker.54eeb361.jpg": "/ma-landing-page/static/media/pixelartmaker.54eeb361.jpg",
+    "static/media/starnotary.2206c7fd.jpg": "/ma-landing-page/static/media/starnotary.2206c7fd.jpg",
+    "static/media/wouldyourather.09f8fcfd.jpg": "/ma-landing-page/static/media/wouldyourather.09f8fcfd.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.a63ae1b1.js",
-    "static/js/2.4d7f0fc9.chunk.js",
-    "static/css/main.a5c58bfd.chunk.css",
-    "static/js/main.e134f8d0.chunk.js"
+    "static/js/2.17a1715f.chunk.js",
+    "static/css/main.b31e3362.chunk.css",
+    "static/js/main.26902648.chunk.js"
   ]
 }
