@@ -17,17 +17,83 @@
     }
 }
 
+.about-sub {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    color: #bbb;
+    border-top: 1px solid rgb(49, 51, 50);
+    background: linear-gradient(90deg, rgba(0, 0, 0, 1) 0%, rgb(49, 51, 50) 13%, rgba(0, 0, 0, 1) 100%);
+  }
+.skills {
+    margin: 0 1.5em;
+}
+.certificates {
+    margin: 1.5em;
+    width: 63%;
+}
+@media only screen and (max-width: 1050px) {
+    .certificates {
+      width: 100%;
+    }
+    .certificate {
+        margin: auto 0.5em;
+    }
+  }
+.certificate-display h4 {
+    font-family: 'opensans-bold', sans-serif;
+    color: #777;
+    letter-spacing: 5px;
+}
+.certificate-display h5 {
+    letter-spacing: 2px;
+    margin: 0.8em;
+}
+.certificate-type-display {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    position: relative;
+}
+.certificate {
+    width: 30%;
+    max-width: 200px;
+    min-width: 180px;
+}
+
+.nanodegree {
+    width: 30%;
+    max-width: 300px;
+    min-width: 200px;
+}
+.certificate-type-display img{
+    cursor: zoom-in;
+    width: 100%;
+    opacity: 0.6;
+}
+.zoomIn {
+    cursor: zoom-out !important;
+    position: absolute;
+    top: 50%;  /* position the top  edge of the element at the middle of the parent */
+    left: 50%; /* position the left edge of the element at the middle of the parent */
+    z-index: 50;
+    opacity: 1 !important;
+    transform: translate(-50%, -50%);
+}
+
 .skill-display {
     display: inline-block;
     margin: auto;
     text-align: justify;
 }
+.skill-display p {
+    padding: 0.5em;
+}
 
 progress[value] {
     -webkit-appearance: none;
      appearance: none;
-  
-    width: 250px;
+    max-width: 250px;
     height: 20px;
 }
 
