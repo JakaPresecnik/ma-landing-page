@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/ma-landing-page/static/css/main.04c24fba.chunk.css",
-    "main.js": "/ma-landing-page/static/js/main.b25cd2cc.chunk.js",
-    "main.js.map": "/ma-landing-page/static/js/main.b25cd2cc.chunk.js.map",
+    "main.js": "/ma-landing-page/static/js/main.a492c4ab.chunk.js",
+    "main.js.map": "/ma-landing-page/static/js/main.a492c4ab.chunk.js.map",
     "runtime-main.js": "/ma-landing-page/static/js/runtime-main.a63ae1b1.js",
     "runtime-main.js.map": "/ma-landing-page/static/js/runtime-main.a63ae1b1.js.map",
-    "static/js/2.17a1715f.chunk.js": "/ma-landing-page/static/js/2.17a1715f.chunk.js",
-    "static/js/2.17a1715f.chunk.js.map": "/ma-landing-page/static/js/2.17a1715f.chunk.js.map",
+    "static/js/2.8535a4d8.chunk.js": "/ma-landing-page/static/js/2.8535a4d8.chunk.js",
+    "static/js/2.8535a4d8.chunk.js.map": "/ma-landing-page/static/js/2.8535a4d8.chunk.js.map",
     "static/js/3.e0c18ca3.chunk.js": "/ma-landing-page/static/js/3.e0c18ca3.chunk.js",
     "static/js/3.e0c18ca3.chunk.js.map": "/ma-landing-page/static/js/3.e0c18ca3.chunk.js.map",
     "index.html": "/ma-landing-page/index.html",
     "static/css/main.04c24fba.chunk.css.map": "/ma-landing-page/static/css/main.04c24fba.chunk.css.map",
-    "static/js/2.17a1715f.chunk.js.LICENSE.txt": "/ma-landing-page/static/js/2.17a1715f.chunk.js.LICENSE.txt",
+    "static/js/2.8535a4d8.chunk.js.LICENSE.txt": "/ma-landing-page/static/js/2.8535a4d8.chunk.js.LICENSE.txt",
     "static/media/FEND.f06124bf.jpg": "/ma-landing-page/static/media/FEND.f06124bf.jpg",
     "static/media/IPND.13e7c013.jpg": "/ma-landing-page/static/media/IPND.13e7c013.jpg",
     "static/media/RND.85838634.jpg": "/ma-landing-page/static/media/RND.85838634.jpg",
@@ -29,12 +29,13 @@
     "static/media/sololearnReact.c39b17c7.jpg": "/ma-landing-page/static/media/sololearnReact.c39b17c7.jpg",
     "static/media/sololearnSQL.7b7e2e04.jpg": "/ma-landing-page/static/media/sololearnSQL.7b7e2e04.jpg",
     "static/media/starnotary.2206c7fd.jpg": "/ma-landing-page/static/media/starnotary.2206c7fd.jpg",
+    "static/media/travelplaner.2872e25d.jpg": "/ma-landing-page/static/media/travelplaner.2872e25d.jpg",
     "static/media/wouldyourather.09f8fcfd.jpg": "/ma-landing-page/static/media/wouldyourather.09f8fcfd.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.a63ae1b1.js",
-    "static/js/2.17a1715f.chunk.js",
+    "static/js/2.8535a4d8.chunk.js",
     "static/css/main.04c24fba.chunk.css",
-    "static/js/main.b25cd2cc.chunk.js"
+    "static/js/main.a492c4ab.chunk.js"
   ]
 }
