@@ -16,8 +16,8 @@ function Nav (props) {
         <nav>
             <ul id="nav" className={shrinkNav ? "shaded" : "nav"}>
                 <li><NavLink to='/ma-landing-page' exact activeClassName="selected">Home</NavLink></li>
-                <li><NavLink to='/ma-landing-page/works' activeClassName="selected">Works</NavLink></li>
                 <li><NavLink to='/ma-landing-page/aboot' activeClassName="selected">Aboot</NavLink></li>
+                <li><NavLink to='/ma-landing-page/works' activeClassName="selected">Works</NavLink></li>
             </ul>
         </nav>
     );

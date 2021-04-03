@@ -12,17 +12,17 @@ import sololearnReact from './img/sololearnReact.jpg';
 import hackerrankReact from './img/hackerrankReact.jpg';
 
 export const skills = [
-    {name: 'HTML', icon: FaHtml5, progress: 95},
-    {name: 'CSS', icon: FaCss3Alt, progress: 95},
-    {name:'Javascript', icon: SiJavascript, progress: 90},
-    {name: 'jQuery', icon: SiJquery, progress: 60},
-    {name: 'NodeJs', icon: SiNodeDotJs, progress: 60},
-    {name: 'React', icon: FaReact, color: '61dafb', progress: 80},
-    {name: 'Redux', icon: SiRedux, progress: 70},
-    {name: 'Postgres', icon: SiPostgresql, progress: 40},
-    {name: 'Angular', icon: FaAngular, progress: 50},
-    {name: 'Solidity', icon: FaEthereum, progress: 35},
-    {name: 'Python', icon: FaPython, progress: 20}
+    {name: 'HTML', icon: FaHtml5, progress: 85},
+    {name: 'CSS', icon: FaCss3Alt, progress: 85},
+    {name:'Javascript', icon: SiJavascript, progress: 75},
+    {name: 'React', icon: FaReact, color: '61dafb', progress: 70},
+    {name: 'Redux', icon: SiRedux, progress: 60},
+    {name: 'jQuery', icon: SiJquery, progress: 50},
+    {name: 'NodeJs', icon: SiNodeDotJs, progress: 50},
+    {name: 'Postgres', icon: SiPostgresql, progress: 35},
+    {name: 'Angular', icon: FaAngular, progress: 30},
+    {name: 'Solidity', icon: FaEthereum, progress: 30},
+    {name: 'Python', icon: FaPython, progress: 15}
 ]
 
 export const certificates = {

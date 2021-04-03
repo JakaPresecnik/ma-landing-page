@@ -2,6 +2,7 @@ import SvgThree from './SvgThree';
 import {skills, certificates} from '../skills';
 import { Fragment } from 'react';
 import { FaGlobe } from 'react-icons/fa';
+import ruby from '../img/ruby.jpg';
 
 function Aboot () {
 
@@ -15,7 +16,16 @@ function Aboot () {
                 <SvgThree num={window.innerWidth / 50} />
                 <div className="header">
                     <h1>About</h1>
-                    <p>...</p>
+                    <div className="about">
+                        <img src={ruby} alt="Profile pic" /> 
+                        <p>Hi!<br /><br /> 
+                        I love web programming and it probably goes well with the fact that my personality type is INFP.
+                        I love using React for my projects, as well as Angular. I also started to love working with backend, 
+                        and I want to expand my knowledge to use blockchain as backend.<br /><br />
+                        I am 3/40 on narcissistic scale and that is probably the reason I don't have a profile pic.
+                        I used one from my dog Ruby, and I am sure she won't mind me using it here :)
+                        </p>
+                    </div>
                 </div>
             </section>
             <div className='about-sub' style={{paddingBottom: '1em'}}>

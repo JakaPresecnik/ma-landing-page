@@ -16,7 +16,29 @@
         transform: scale(0.0);
     }
 }
-
+.about {
+    z-index: 3;
+    display: grid;
+    grid-template-columns: 170px 1fr;
+    align-items: center;
+}
+.about img{
+    width: 150px;
+    margin: 10px;
+    border-radius: 50%;
+}
+@media only screen and (max-width: 700px) {
+    .about {
+        display: block;
+    }
+    .about img {
+        display: none;
+    }
+}
+.about p {
+    font-size: 15px;
+    margin: 10px;
+}
 .about-sub {
     display: flex;
     flex-wrap: wrap;
