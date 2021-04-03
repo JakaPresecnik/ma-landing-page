@@ -5,8 +5,9 @@ import arcadegame from './img/arcadegame.jpg';
 import landingpage from './img/landingpage.jpg';
 import myreads from './img/myreads.jpg';
 import wouldyourather from './img/wouldyourather.jpg';
+import travelplaner from './img/travelplaner.jpg';
 import { FaEthereum, FaHtml5, FaCss3Alt, FaReact } from "react-icons/fa";
-import { SiMocha, SiBootstrap, SiJavascript, SiJquery, SiRedux } from "react-icons/si";
+import { SiMocha, SiBootstrap, SiJavascript, SiJquery, SiRedux, SiNodeDotJs, SiWebpack, SiHeroku, SiJest } from "react-icons/si";
 
 const projects = [
     {   id: 25,
@@ -47,6 +48,23 @@ const projects = [
         date: 'March 2020',
         linkUrl: 'https://jakapresecnik.github.io/my-reads/',
         linkGithub: 'https://github.com/JakaPresecnik/my-reads'
+    },
+    {
+        id: 17,
+        name: 'Travel Planer',
+        screenshot: travelplaner,
+        techUsed: [
+            {name: 'HTML', icon: FaHtml5},
+            {name:'SCSS', icon: FaCss3Alt},
+            {name: 'Javascript', icon: SiJavascript},
+            {name: 'Node.js', icon: SiNodeDotJs},
+            {name: 'Webpack', icon: SiWebpack},
+            {name: 'Jest', icon: SiJest},
+            {name: 'Heroku', icon: SiHeroku}
+        ],
+        date: 'January 2020',
+        linkUrl: 'https://jaka-travel-app.herokuapp.com/',
+        linkGithub: 'https://github.com/JakaPresecnik/travel_planner'
     },
     {
         id: 14,
