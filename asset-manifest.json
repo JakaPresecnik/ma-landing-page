@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/ma-landing-page/static/css/main.5e8f198d.chunk.css",
-    "main.js": "/ma-landing-page/static/js/main.789973ab.chunk.js",
-    "main.js.map": "/ma-landing-page/static/js/main.789973ab.chunk.js.map",
+    "main.css": "/ma-landing-page/static/css/main.0376fe3e.chunk.css",
+    "main.js": "/ma-landing-page/static/js/main.61d449e6.chunk.js",
+    "main.js.map": "/ma-landing-page/static/js/main.61d449e6.chunk.js.map",
     "runtime-main.js": "/ma-landing-page/static/js/runtime-main.a63ae1b1.js",
     "runtime-main.js.map": "/ma-landing-page/static/js/runtime-main.a63ae1b1.js.map",
     "static/js/2.8c457d28.chunk.js": "/ma-landing-page/static/js/2.8c457d28.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.e0c18ca3.chunk.js": "/ma-landing-page/static/js/3.e0c18ca3.chunk.js",
     "static/js/3.e0c18ca3.chunk.js.map": "/ma-landing-page/static/js/3.e0c18ca3.chunk.js.map",
     "index.html": "/ma-landing-page/index.html",
-    "static/css/main.5e8f198d.chunk.css.map": "/ma-landing-page/static/css/main.5e8f198d.chunk.css.map",
+    "static/css/main.0376fe3e.chunk.css.map": "/ma-landing-page/static/css/main.0376fe3e.chunk.css.map",
     "static/js/2.8c457d28.chunk.js.LICENSE.txt": "/ma-landing-page/static/js/2.8c457d28.chunk.js.LICENSE.txt",
     "static/media/FEND.f06124bf.jpg": "/ma-landing-page/static/media/FEND.f06124bf.jpg",
     "static/media/IPND.13e7c013.jpg": "/ma-landing-page/static/media/IPND.13e7c013.jpg",
@@ -22,6 +22,7 @@
     "static/media/myreads.a6d591a1.jpg": "/ma-landing-page/static/media/myreads.a6d591a1.jpg",
     "static/media/paragoria.528bbafb.jpg": "/ma-landing-page/static/media/paragoria.528bbafb.jpg",
     "static/media/pixelartmaker.54eeb361.jpg": "/ma-landing-page/static/media/pixelartmaker.54eeb361.jpg",
+    "static/media/ruby.fcd768d7.jpg": "/ma-landing-page/static/media/ruby.fcd768d7.jpg",
     "static/media/sololearnCSS.a192429e.jpg": "/ma-landing-page/static/media/sololearnCSS.a192429e.jpg",
     "static/media/sololearnHTML.7ccd17c2.jpg": "/ma-landing-page/static/media/sololearnHTML.7ccd17c2.jpg",
     "static/media/sololearnJQ.212f6975.jpg": "/ma-landing-page/static/media/sololearnJQ.212f6975.jpg",
@@ -35,7 +36,7 @@
   "entrypoints": [
     "static/js/runtime-main.a63ae1b1.js",
     "static/js/2.8c457d28.chunk.js",
-    "static/css/main.5e8f198d.chunk.css",
-    "static/js/main.789973ab.chunk.js"
+    "static/css/main.0376fe3e.chunk.css",
+    "static/js/main.61d449e6.chunk.js"
   ]
 }
