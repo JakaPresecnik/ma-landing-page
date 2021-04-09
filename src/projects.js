@@ -6,10 +6,25 @@ import landingpage from './img/landingpage.jpg';
 import myreads from './img/myreads.jpg';
 import wouldyourather from './img/wouldyourather.jpg';
 import travelplaner from './img/travelplaner.jpg';
+import supplytrackingdapp from './img/supplytrackingdapp.jpg'
 import { FaEthereum, FaHtml5, FaCss3Alt, FaReact } from "react-icons/fa";
 import { SiMocha, SiBootstrap, SiJavascript, SiJquery, SiRedux, SiNodeDotJs, SiWebpack, SiHeroku, SiJest } from "react-icons/si";
 
 const projects = [
+    {   id: 26,
+        name: 'Fair Trade Coffee',
+        screenshot: supplytrackingdapp,
+        techUsed: [
+            { name: 'Solidity', icon: FaEthereum },
+            { name: 'MochaJs', icon: SiMocha },
+            { name: 'Javascript', icon: SiJavascript},
+            { name: 'jQuery', icon: SiJquery },
+            { name: 'CSS', icon: FaCss3Alt}
+        ],
+        date: 'April 2021',
+        linkUrl: 'https://jakapresecnik.github.io/dapp-for-tracking-items-through-supply-chain/',
+        linkGithub: 'https://github.com/JakaPresecnik/dapp-for-tracking-items-through-supply-chain/'
+    },
     {   id: 25,
         name: 'Decentralized Star Notary Service',
         screenshot: starnotary,

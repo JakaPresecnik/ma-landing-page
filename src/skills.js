@@ -17,11 +17,11 @@ export const skills = [
     {name:'Javascript', icon: SiJavascript, progress: 75},
     {name: 'React', icon: FaReact, color: '61dafb', progress: 70},
     {name: 'Redux', icon: SiRedux, progress: 60},
-    {name: 'jQuery', icon: SiJquery, progress: 50},
+    {name: 'jQuery', icon: SiJquery, progress: 55},
     {name: 'NodeJs', icon: SiNodeDotJs, progress: 50},
     {name: 'Postgres', icon: SiPostgresql, progress: 35},
     {name: 'Angular', icon: FaAngular, progress: 30},
-    {name: 'Solidity', icon: FaEthereum, progress: 30},
+    {name: 'Solidity', icon: FaEthereum, progress: 35},
     {name: 'Python', icon: FaPython, progress: 15}
 ]
 
