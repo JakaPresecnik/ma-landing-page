@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/ma-landing-page/static/css/main.0376fe3e.chunk.css",
-    "main.js": "/ma-landing-page/static/js/main.61d449e6.chunk.js",
-    "main.js.map": "/ma-landing-page/static/js/main.61d449e6.chunk.js.map",
+    "main.js": "/ma-landing-page/static/js/main.f6613f0d.chunk.js",
+    "main.js.map": "/ma-landing-page/static/js/main.f6613f0d.chunk.js.map",
     "runtime-main.js": "/ma-landing-page/static/js/runtime-main.a63ae1b1.js",
     "runtime-main.js.map": "/ma-landing-page/static/js/runtime-main.a63ae1b1.js.map",
     "static/js/2.8c457d28.chunk.js": "/ma-landing-page/static/js/2.8c457d28.chunk.js",
@@ -30,6 +30,7 @@
     "static/media/sololearnReact.c39b17c7.jpg": "/ma-landing-page/static/media/sololearnReact.c39b17c7.jpg",
     "static/media/sololearnSQL.7b7e2e04.jpg": "/ma-landing-page/static/media/sololearnSQL.7b7e2e04.jpg",
     "static/media/starnotary.2206c7fd.jpg": "/ma-landing-page/static/media/starnotary.2206c7fd.jpg",
+    "static/media/supplytrackingdapp.20148cdc.jpg": "/ma-landing-page/static/media/supplytrackingdapp.20148cdc.jpg",
     "static/media/travelplaner.2872e25d.jpg": "/ma-landing-page/static/media/travelplaner.2872e25d.jpg",
     "static/media/wouldyourather.09f8fcfd.jpg": "/ma-landing-page/static/media/wouldyourather.09f8fcfd.jpg"
   },
@@ -37,6 +38,6 @@
     "static/js/runtime-main.a63ae1b1.js",
     "static/js/2.8c457d28.chunk.js",
     "static/css/main.0376fe3e.chunk.css",
-    "static/js/main.61d449e6.chunk.js"
+    "static/js/main.f6613f0d.chunk.js"
   ]
 }
