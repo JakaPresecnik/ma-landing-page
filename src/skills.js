@@ -10,6 +10,7 @@ import sololearnJQ from './img/sololearnJQ.jpg';
 import sololearnSQL from './img/sololearnSQL.jpg';
 import sololearnReact from './img/sololearnReact.jpg';
 import hackerrankReact from './img/hackerrankReact.jpg';
+import hackerrankSQL from './img/hackerrankSQL.jpg';
 
 export const skills = [
     {name: 'HTML', icon: FaHtml5, progress: 85},
@@ -32,6 +33,7 @@ export const certificates = {
         {id: 1, name: 'Intro to Programming', img: IPND, date: 'June 2018', link: 'https://confirm.udacity.com/GZ5FS7AC', syllabus: 'https://s3-us-west-2.amazonaws.com/udacity-printer/production/syllabus/syllabus-nd000-4.0.0-en-us.pdf'},
     ],
     certificates: [
+        {id: 8, name: 'SQL (Basic)', img: hackerrankSQL, date: 'April 2021', link: 'https://www.hackerrank.com/certificates/8c3f935a354f'},
         {id: 7, name: 'React (Basic)', img: hackerrankReact, date: 'February 2021', link: 'https://www.hackerrank.com/certificates/0c2b99ba15e8'},
         {id: 6, name: 'React + Redux course', img: sololearnReact, date: 'July 2020', link: 'https://www.sololearn.com/Certificate/1097-26490/jpg/'},
         {id: 5, name: 'SQL course', img: sololearnSQL, date: 'January, 2021', link: 'https://www.sololearn.com/Certificate/1060-26490/jpg/'},

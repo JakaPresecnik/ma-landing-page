@@ -8,7 +8,11 @@ function Aboot () {
 
     const openPic = (type, id) => {
         const pic = document.getElementById(`${type}${id}`);
+        let position = pic.offsetTop;
         pic.classList.toggle('zoomIn');
+        if(pic.classList.contains("zoomIn")) {
+            pic.style.top = `${position - pic.height / 2}px`
+        }
     }
     return (
         <>
@@ -48,7 +52,7 @@ function Aboot () {
                                 <h4>{type.toUpperCase()}</h4>
                                 <div className="certificate-type-display">
                                     {certificates[type].map(certificate => (
-                                        <div className={type != 'nanodegree' ? "certificate" : "nanodegree"} key={certificate.name}>
+                                        <div className={type !== 'nanodegree' ? "certificate" : "nanodegree"} key={certificate.name}>
                                             <h5>{certificate.name}</h5>
                                             <img onClick={() => openPic(type, certificate.id)} id={`${type}${certificate.id}`} src={certificate.img} alt={`Certificate for ${certificate.name}`} />
                                             <a className='project-badge' href={certificate.link} alt='Link to official certificate' target="_blank" rel="noreferrer"><FaGlobe size="1.5em" /></a>
