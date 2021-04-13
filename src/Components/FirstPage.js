@@ -2,6 +2,7 @@
 import Svg from './Svg.js';
 // import { useEffect } from "react";
 import thoughts from '../randomThoughts';
+import GithubContribution from './UtilComponents/GithubContribution.js';
 
 function FirstPage () {
     
