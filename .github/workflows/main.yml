@@ -28,7 +28,7 @@ jobs:
       - name: Install and Build
         run: |
           npm install
-          CI=false npm run build
+          CI=false npm run build && ls
         env:
           REACT_APP_GITHUB_ACCESS_TOKEN: ${{ secrets.REACT_APP_GITHUB_ACCESS_TOKEN }}
 
