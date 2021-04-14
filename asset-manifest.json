@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/ma-landing-page/static/css/main.a9f366d6.chunk.css",
-    "main.js": "/ma-landing-page/static/js/main.4c840b78.chunk.js",
-    "main.js.map": "/ma-landing-page/static/js/main.4c840b78.chunk.js.map",
-    "runtime-main.js": "/ma-landing-page/static/js/runtime-main.a63ae1b1.js",
-    "runtime-main.js.map": "/ma-landing-page/static/js/runtime-main.a63ae1b1.js.map",
-    "static/js/2.8c457d28.chunk.js": "/ma-landing-page/static/js/2.8c457d28.chunk.js",
-    "static/js/2.8c457d28.chunk.js.map": "/ma-landing-page/static/js/2.8c457d28.chunk.js.map",
-    "static/js/3.e0c18ca3.chunk.js": "/ma-landing-page/static/js/3.e0c18ca3.chunk.js",
-    "static/js/3.e0c18ca3.chunk.js.map": "/ma-landing-page/static/js/3.e0c18ca3.chunk.js.map",
+    "main.js": "/ma-landing-page/static/js/main.e8af48c5.chunk.js",
+    "main.js.map": "/ma-landing-page/static/js/main.e8af48c5.chunk.js.map",
+    "runtime-main.js": "/ma-landing-page/static/js/runtime-main.bf430d2c.js",
+    "runtime-main.js.map": "/ma-landing-page/static/js/runtime-main.bf430d2c.js.map",
+    "static/js/2.c3dc5e94.chunk.js": "/ma-landing-page/static/js/2.c3dc5e94.chunk.js",
+    "static/js/2.c3dc5e94.chunk.js.map": "/ma-landing-page/static/js/2.c3dc5e94.chunk.js.map",
+    "static/js/3.6d069372.chunk.js": "/ma-landing-page/static/js/3.6d069372.chunk.js",
+    "static/js/3.6d069372.chunk.js.map": "/ma-landing-page/static/js/3.6d069372.chunk.js.map",
     "index.html": "/ma-landing-page/index.html",
     "static/css/main.a9f366d6.chunk.css.map": "/ma-landing-page/static/css/main.a9f366d6.chunk.css.map",
-    "static/js/2.8c457d28.chunk.js.LICENSE.txt": "/ma-landing-page/static/js/2.8c457d28.chunk.js.LICENSE.txt",
+    "static/js/2.c3dc5e94.chunk.js.LICENSE.txt": "/ma-landing-page/static/js/2.c3dc5e94.chunk.js.LICENSE.txt",
     "static/media/FEND.f06124bf.jpg": "/ma-landing-page/static/media/FEND.f06124bf.jpg",
     "static/media/IPND.13e7c013.jpg": "/ma-landing-page/static/media/IPND.13e7c013.jpg",
     "static/media/RND.85838634.jpg": "/ma-landing-page/static/media/RND.85838634.jpg",
@@ -36,9 +36,9 @@
     "static/media/wouldyourather.09f8fcfd.jpg": "/ma-landing-page/static/media/wouldyourather.09f8fcfd.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.a63ae1b1.js",
-    "static/js/2.8c457d28.chunk.js",
+    "static/js/runtime-main.bf430d2c.js",
+    "static/js/2.c3dc5e94.chunk.js",
     "static/css/main.a9f366d6.chunk.css",
-    "static/js/main.4c840b78.chunk.js"
+    "static/js/main.e8af48c5.chunk.js"
   ]
 }
