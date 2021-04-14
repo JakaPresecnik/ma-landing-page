@@ -1,8 +1,8 @@
 import { GraphQL, GraphQLProvider, useGraphQL } from 'graphql-react';
 import React, { useState } from 'react';
 
-const token = process.env.NODE_ENV === 'development' ? "ENTER-TOKEN-HERE" : process.env.GITHUB_ACCESS_TOKEN;
-
+const token = process.env.NODE_ENV === 'development' ? "enter-token-here" : process.env.process.env.REACT_APP_GITHUB_ACCESS_TOKEN;
+console.log(process.env)
 const colorsDark = {
     "NONE": '#161b22',
     "FIRST_QUARTILE": '#033a16',
