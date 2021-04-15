@@ -13,7 +13,7 @@ function Works () {
                     <h1>Works</h1>
                     <GithubContribution userName={"JakaPresecnik"} />
                 </div>
-                {/* <SvgTwo num={window.innerWidth / 50} /> */}
+                <SvgTwo num={window.innerWidth / 50} />
             </section>
             <div className='works'>
                 <h2>Projects</h2>
