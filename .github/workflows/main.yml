@@ -21,14 +21,12 @@ jobs:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - name: Checkout
         uses: actions/checkout@v2.3.1
-        with:
-          persist-credentials: false 
 
       # Runs a single command using the runners shell
       - name: Install and Build
         run: |
           npm install
-          CI=false npm run build && ls
+          CI=false npm run build
         env:
           REACT_APP_GITHUB_ACCESS_TOKEN: ${{ secrets.REACT_APP_GITHUB_ACCESS_TOKEN }}
 
