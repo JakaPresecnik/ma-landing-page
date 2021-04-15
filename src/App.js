@@ -15,9 +15,9 @@ function App() {
       <Nav />
       <ScrollToTop />
       <Switch>
-        <Route path='/ma-landing-page' exact component={FirstPage}/>
-        <Route path='/ma-landing-page/works' component={Works} />
-        <Route path="/ma-landing-page/aboot" component={Aboot} />
+        <Route path='/' exact component={FirstPage}/>
+        <Route path='/works' component={Works} />
+        <Route path="/aboot" component={Aboot} />
       </Switch>
       <Footer />
     </div>

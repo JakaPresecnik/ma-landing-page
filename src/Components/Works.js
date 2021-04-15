@@ -1,7 +1,5 @@
 import SvgTwo from "./SvgTwo";
-import paragoria from "../img/paragoria.jpg"
-import { FaReact, FaCss3Alt, FaGlobe, FaGithub } from "react-icons/fa";
-import { SiRedux, SiNodeDotJs, SiPostgresql, SiHeroku } from "react-icons/si";
+import { FaGlobe, FaGithub } from "react-icons/fa";
 import projects from '../projects';
 import { GithubContribution } from "./UtilComponents/GithubContribution";
 
@@ -11,9 +9,14 @@ function Works () {
             <section>
                 <div className="header">
                     <h1>Works</h1>
-                    <GithubContribution userName={"JakaPresecnik"} />
+                    <div style={{zIndex: 2}}>
+                        <p style={{marginBottom: '0.1em'}}><a href="https://github.com/JakaPresecnik" title="Github profile" target="_blank" rel="noreferrer" ><FaGithub style={{marginRight: '0.5em'}} size='1.5em' /></a> Contributions:</p>
+                        <GithubContribution userName={"JakaPresecnik"} />
+                        <p style={{fontSize: '11px', color: '#999', margin: '5px'}}>NPM package for this component comming soon....</p>
+                        <p style={{fontSize: '11px', color: '#999', margin: '5px'}}>...needs some polishing first :)</p>
+                    </div>
                 </div>
-                {/* <SvgTwo num={window.innerWidth / 50} /> */}
+                <SvgTwo num={window.innerWidth / 50} />
             </section>
             <div className='works'>
                 <h2>Projects</h2>
