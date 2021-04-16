@@ -1,7 +1,7 @@
 import SvgTwo from "./SvgTwo";
 import { FaGlobe, FaGithub, FaNpm } from "react-icons/fa";
 import projects from '../projects';
-import { GithubContribution } from "./UtilComponents/GithubContribution";
+import {GithubContribution} from 'react-github-contributions-component';
 
 function Works () {
     return (
@@ -11,7 +11,7 @@ function Works () {
                     <h1>Works</h1>
                     <div style={{zIndex: 2}}>
                         <p style={{marginBottom: '0.1em'}}><a href="https://github.com/JakaPresecnik" title="Github profile" target="_blank" rel="noreferrer" ><FaGithub style={{marginRight: '0.5em'}} size='1.5em' /></a> Contributions:</p>
-                        <GithubContribution userName={"JakaPresecnik"} />
+                        <GithubContribution userName="jakapresecnik" theme="dark" />
                         <p style={{textAlign: 'right', fontSize: '14px', height: '1em', marginTop:'0' }}>Check this component out: 
                             <a className='project-badge' href="https://www.npmjs.com/package/react-github-contributions-component" style={{marginLeft: '1em', top: '1em'}} target='_blank' rel="noreferrer" title='This Components NPM package page'><FaNpm size='3em' /></a>
                         </p>
