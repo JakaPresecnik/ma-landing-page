@@ -20,10 +20,10 @@ export const skills = [
     {name: 'Redux', icon: SiRedux, progress: 60},
     {name: 'jQuery', icon: SiJquery, progress: 55},
     {name: 'NodeJs', icon: SiNodeDotJs, progress: 50},
+    {name: 'Python', icon: FaPython, progress: 40},
     {name: 'Postgres', icon: SiPostgresql, progress: 35},
     {name: 'Angular', icon: FaAngular, progress: 30},
-    {name: 'Solidity', icon: FaEthereum, progress: 35},
-    {name: 'Python', icon: FaPython, progress: 15}
+    {name: 'Solidity', icon: FaEthereum, progress: 30}
 ]
 
 export const certificates = {
