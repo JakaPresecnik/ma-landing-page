@@ -181,3 +181,12 @@ progress[value]::-webkit-progress-value {
 #Python[value]::-webkit-progress-value {
     background-color: #f8c953;
 }
+#Flask[value]::-webkit-progress-value {
+    background-color: #222;
+}
+#Postman[value]::-webkit-progress-value {
+    background-color: #ff6c36;
+}
+#Auth0[value]::-webkit-progress-value {
+    background-color: #635dff;
+}

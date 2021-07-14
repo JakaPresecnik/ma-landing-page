@@ -8,10 +8,62 @@ import wouldyourather from './img/wouldyourather.jpg';
 import travelplaner from './img/travelplaner.jpg';
 import supplytrackingdapp from './img/supplytrackingdapp.jpg';
 import paragoria from "./img/paragoria.jpg";
-import { FaEthereum, FaHtml5, FaCss3Alt, FaReact } from "react-icons/fa";
-import { SiMocha, SiBootstrap, SiJavascript, SiJquery, SiRedux, SiNodeDotJs, SiWebpack, SiHeroku, SiJest, SiPostgresql } from "react-icons/si";
+import castingagency from './img/castingagency.jpg';
+import golteinfoscreen from './img/golteinfoscreen.jpg';
+import { 
+    FaEthereum, 
+    FaHtml5,
+    FaCss3Alt, 
+    FaReact,
+    FaPython
+} from "react-icons/fa";
+import { 
+    SiMocha, 
+    SiBootstrap, 
+    SiJavascript, 
+    SiJquery, 
+    SiRedux, 
+    SiNodeDotJs, 
+    SiWebpack, 
+    SiHeroku, 
+    SiJest, 
+    SiPostgresql,
+    SiFlask,
+    SiAuth0,
+    SiPostman
+} from "react-icons/si";
 
 const projects = [
+    {
+        id: 32,
+        name: 'Golte Info-Screen',
+        screenshot: golteinfoscreen,
+        techUsed: [
+            { name: 'React', icon: FaReact },
+            { name: 'CSS', icon: FaCss3Alt }
+        ],
+        date: 'June 2021',
+        linkUrl: 'https://jakapresecnik.github.io/golte-greetscreen/',
+        linkGithub: 'https://github.com/JakaPresecnik/golte-greetscreen'
+    },
+    {
+        id: 31,
+        name: 'Casting Agency',
+        screenshot: castingagency,
+        techUsed: [
+            { name: 'Python', icon: FaPython },
+            { name: 'Flask', icon: SiFlask },
+            { name: 'Auth0', icon: SiAuth0 },
+            { name: 'Postman', icon: SiPostman },
+            { name: 'Postgres', icon: SiPostgresql },
+            { name: 'React', icon: FaReact },
+            { name: 'SCSS', icon: FaCss3Alt },
+            { name: 'Heroku', icon: SiHeroku }
+        ],
+        date: 'June 2021',
+        linkUrl: 'https://jakapresecnik.github.io/casting_agency/#/',
+        linkGithub: 'https://github.com/JakaPresecnik/casting_agency'
+    },
     {   id: 26,
         name: 'Fair Trade Coffee',
         screenshot: supplytrackingdapp,

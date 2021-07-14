@@ -1,8 +1,9 @@
 import { FaEthereum, FaHtml5, FaCss3Alt, FaReact, FaPython, FaAngular } from "react-icons/fa";
-import { SiJavascript, SiJquery, SiRedux, SiNodeDotJs,  SiPostgresql } from "react-icons/si";
+import { SiJavascript, SiJquery, SiRedux, SiNodeDotJs,  SiPostgresql, SiFlask, SiPostman, SiAuth0 } from "react-icons/si";
 import RND from './img/RND.jpg';
 import FEND from './img/FEND.jpg';
 import IPND from './img/IPND.jpg';
+import FSND from './img/FSND.jpg';
 import sololearnHTML from './img/sololearnHTML.jpg';
 import sololearnCSS from './img/sololearnCSS.jpg';
 import sololearnJS from './img/sololearnJS.jpg';
@@ -15,19 +16,23 @@ import hackerrankSQL from './img/hackerrankSQL.jpg';
 export const skills = [
     {name: 'HTML', icon: FaHtml5, progress: 85},
     {name: 'CSS', icon: FaCss3Alt, progress: 85},
-    {name:'Javascript', icon: SiJavascript, progress: 75},
+    {name: 'Javascript', icon: SiJavascript, progress: 75},
     {name: 'React', icon: FaReact, color: '61dafb', progress: 70},
     {name: 'Redux', icon: SiRedux, progress: 60},
     {name: 'jQuery', icon: SiJquery, progress: 55},
     {name: 'NodeJs', icon: SiNodeDotJs, progress: 50},
-    {name: 'Postgres', icon: SiPostgresql, progress: 35},
-    {name: 'Angular', icon: FaAngular, progress: 30},
-    {name: 'Solidity', icon: FaEthereum, progress: 35},
-    {name: 'Python', icon: FaPython, progress: 15}
+    {name: 'Postgres', icon: SiPostgresql, progress: 45},
+    {name: 'Angular', icon: FaAngular, progress: 25},
+    {name: 'Solidity', icon: FaEthereum, progress: 25},
+    {name: 'Python', icon: FaPython, progress: 40},
+    {name: 'Flask', icon: SiFlask, progress: 45},
+    {name: 'Postman', icon: SiPostman, progress: 40},
+    {name: 'Auth0', icon: SiAuth0, progress: 40}
 ]
 
 export const certificates = {
     nanodegree: [
+        {id: 4, name: 'Full Stack Web Developer', img: FSND, link: 'https://confirm.udacity.com/FYZGWPA7'},
         {id: 3, name: 'React', img: RND, date: 'June, 2020', link: 'https://confirm.udacity.com/DUKMWR2D', syllabus: 'https://s3-us-west-2.amazonaws.com/udacity-printer/production/syllabus/syllabus-nd019-default-en-us.pdf'},
         {id: 2, name: 'Front End Developer', img: FEND, date: 'January 2020', link: 'https://confirm.udacity.com/QPPLCMPJ', syllabus:'https://s3-us-west-2.amazonaws.com/udacity-printer/production/syllabus/syllabus-nd0011-default-en-us.pdf'},
         {id: 1, name: 'Intro to Programming', img: IPND, date: 'June 2018', link: 'https://confirm.udacity.com/GZ5FS7AC', syllabus: 'https://s3-us-west-2.amazonaws.com/udacity-printer/production/syllabus/syllabus-nd000-4.0.0-en-us.pdf'},
