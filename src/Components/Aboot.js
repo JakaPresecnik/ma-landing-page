@@ -24,10 +24,8 @@ function Aboot () {
                         <img src={ruby} alt="Profile pic" /> 
                         <p>Hi!<br /><br /> 
                         I love web programming and it probably goes well with the fact that my personality type is INFP.
-                        I love using React for my projects, as well as Angular. I also started to love working with backend, 
-                        and I want to expand my knowledge to use blockchain as backend.<br /><br />
-                        I am 3/40 on narcissistic scale and that is probably the reason I don't have a profile pic.
-                        I used one from my dog Ruby, and I am sure she won't mind me using it here :)
+                        I love using React for my projects. I love working with backend and making API-s, so that it sends the sweet JSON format, that can be easily implemented wherever you want, 
+                        and I want to expand my knowledge to use blockchain as backend.
                         </p>
                     </div>
                 </div>

@@ -39,6 +39,7 @@ const projects = [
         name: 'Golte Info-Screen',
         screenshot: golteinfoscreen,
         techUsed: [
+            { name: 'Javascript', icon: SiJavascript },
             { name: 'React', icon: FaReact },
             { name: 'CSS', icon: FaCss3Alt }
         ],
